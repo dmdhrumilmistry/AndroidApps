@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="happy_birthday_greetings">Happy Birthday</string>
+    <string name="greetings_from">From D.M.</string>
+    <string name="greeting_card_image_text">Greeting Card Image</string>
+</resources>
