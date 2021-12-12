@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll_value_text">Click on Roll button to roll a die</string>
+    <string name="roll_btn_text">Roll</string>
+    <string name="dice_image_desc">Dice Image</string>
+</resources>

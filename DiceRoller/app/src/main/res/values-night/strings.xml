@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="roll_value_text">Click on Roll button to roll a die</string>
+    <string name="roll_btn_text">Roll</string>
+</resources>
